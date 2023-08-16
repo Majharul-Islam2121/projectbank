@@ -8,6 +8,6 @@ const passwordBtn=password.value
 
 if (emailbtn==='abdur333@gmail.com' && passwordBtn ==='rahim') {
     console.log(window.location.href='bank.html')
-} else {alert('tmi amar sontan nah') }
+} else {alert('please inter your current number') }
 
 })
